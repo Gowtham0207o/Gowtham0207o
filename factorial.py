@@ -7,3 +7,5 @@ def factorial(x,y=0):
         num2=c
         print(num1,c,num2)
 factorial(10)
+#summa try panni paatha
+
